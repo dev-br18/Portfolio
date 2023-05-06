@@ -1,0 +1,47 @@
+
+
+.containerForm{
+    background-color: #1F2232;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.cardForm{
+    background-color: #141620;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    padding: 30px;
+    color: aliceblue;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    border-radius: 10px;
+}
+
+.inputs{
+    padding: 10px 0px;
+    text-align: center;
+    width: 300px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.labels{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.buttonForm{
+    border-style: none;
+    width: 200px;
+    padding: 10px;
+    cursor: pointer;
+    background-color: #D92525;
+    color: aliceblue;
+    border-radius: 10px;
+}
+
