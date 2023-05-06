@@ -5,7 +5,7 @@ import { BrowserRouter, Routes, Route} from "react-router-dom";
 import { TransitionGroup, CSSTransition } from 'react-transition-group';
 import Home from './pages/Home';
 import Painel from './pages/painel';
-import Projetos from './pages/projetos';
+
 
 function App() {
   return (
